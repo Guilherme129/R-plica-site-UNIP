@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: white;
+    background-color: rgb(8, 60, 104);
+}
+
+/*Logo UNIP*/
+#head {
+    display: flex;
+    justify-content: center;
+}
+
+/*Texto acima dos input*/
+#texto {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+/*Texto do input matricula*/
+#matricula {
+    margin: 1rem;
+    font-size: 1.3rem;
+}
+
+/*Texto do input senha*/
+#senha {
+    font-size: 1.3rem;
+}
+
+/*div dos inputs*/
+.input {
+    display: flex;
+    justify-content: center
+    ;
+}
+
+#entrar {
+    display: flex;
+    justify-content: center;
+    margin: 0.6rem;
+}
+
+#btnEntrar {
+    color: white;
+    background-color: rgb(35, 143, 59);
+    padding-right: 5.5rem;
+    padding-left: 5.5rem;
+    font-size: 1.8rem;
+}
+
+#botaos {
+
+}
